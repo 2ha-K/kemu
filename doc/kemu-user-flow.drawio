@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="1SPe5HSaH9VIRuF03N8j">
-    <mxGraphModel dx="1112" dy="2406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="2043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,15 +89,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="管理員" vertex="1">
-          <mxGeometry height="60" width="30" x="95" y="1060" as="geometry" />
+          <mxGeometry height="60" width="30" x="88" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-6" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;管理員頁面&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="50" y="1010" as="geometry" />
+          <mxGeometry height="120" width="180" x="43" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-10" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="lyohoM_yi2DIAz3_KTqN-9" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="260" y="1020" as="targetPoint" />
+            <mxPoint x="253" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-12" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-11" value="">
@@ -107,21 +107,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="管理員操作區" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="1060" as="geometry" />
+          <mxGeometry height="60" width="120" x="193" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-37" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-36" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-52" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="lyohoM_yi2DIAz3_KTqN-70" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="354" y="950" as="targetPoint" />
+            <mxPoint x="347" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-54" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-53" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="固定課表組件" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="920" as="geometry" />
+          <mxGeometry height="60" width="120" x="193" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-56" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-55" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -133,13 +133,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="營收統計組件" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="1260" as="geometry" />
+          <mxGeometry height="60" width="120" x="193" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-65" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-64" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="學生清單組件" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="1060" as="geometry" />
+          <mxGeometry height="60" width="120" x="353" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-18" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;管理員/學生頁面&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="120" width="180" x="50" y="1984" as="geometry" />
@@ -157,27 +157,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-23" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="學生&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="30" x="75" y="1854" as="geometry" />
+          <mxGeometry height="60" width="30" x="245" y="1874" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-24" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;學生頁面&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="180" x="40" y="1794" as="geometry" />
+          <mxGeometry height="120" width="180" x="210" y="1814" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-25" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="lyohoM_yi2DIAz3_KTqN-75" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="1794" as="targetPoint" />
+            <mxPoint x="410" y="1814" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-27" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-31" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="學生操作區" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="1854" as="geometry" />
+          <mxGeometry height="60" width="120" x="350" y="1874" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-92" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-91" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="學生課程區組件" vertex="1">
-          <mxGeometry height="60" width="120" x="340" y="1854" as="geometry" />
+          <mxGeometry height="60" width="120" x="510" y="1874" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-33" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-20" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -192,55 +192,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="展開課程資訊" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="820" as="geometry" />
+          <mxGeometry height="60" width="120" x="193" y="940" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-40" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="刪除課程&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="360" y="810" as="geometry" />
+          <mxGeometry height="80" width="120" x="353" y="930" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="修改課程" vertex="1">
-          <mxGeometry height="80" width="120" x="40" y="810" as="geometry" />
+          <mxGeometry height="80" width="120" x="33" y="930" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-45" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-42" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-44" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="按鈕: 課程名稱，開始時間(必須是未來)，結束時間，課程說明，費用，圖片，開放人數(檢查)" vertex="1">
-          <mxGeometry height="100" width="120" x="40" y="670" as="geometry" />
+          <mxGeometry height="100" width="120" x="33" y="790" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="更新狀態" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="920" as="geometry" />
+          <mxGeometry height="60" width="120" x="33" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="展開帳單" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="1360" as="geometry" />
+          <mxGeometry height="60" width="120" x="193" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="新增額外收入" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="1260" as="geometry" />
+          <mxGeometry height="60" width="120" x="353" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="刪除額外收入" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="1260" as="geometry" />
+          <mxGeometry height="60" width="120" x="33" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-63" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-62" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="篩選器" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="1150" as="geometry" />
+          <mxGeometry height="60" width="120" x="353" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-67" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-66" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="學生資料" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="1060" as="geometry" />
+          <mxGeometry height="60" width="120" x="513" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-69" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-68" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="展開預約紀錄/學生資料" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="960" as="geometry" />
+          <mxGeometry height="60" width="120" x="513" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="批准學生" vertex="1">
-          <mxGeometry height="60" width="120" x="680" y="960" as="geometry" />
+          <mxGeometry height="60" width="120" x="673" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="新增課程" vertex="1">
-          <mxGeometry height="80" width="120" x="360" y="910" as="geometry" />
+          <mxGeometry height="80" width="120" x="353" y="1030" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-72" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-78" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -249,7 +249,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="固定課表組件" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="1700" as="geometry" />
+          <mxGeometry height="60" width="120" x="350" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-76" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lyohoM_yi2DIAz3_KTqN-79" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -258,27 +258,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="展開課程資訊" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="1600" as="geometry" />
+          <mxGeometry height="60" width="120" x="350" y="1620" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-79" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="取消預約&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="370" y="1590" as="geometry" />
+          <mxGeometry height="80" width="120" x="540" y="1610" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-80" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="預約課程" vertex="1">
-          <mxGeometry height="80" width="120" x="20" y="1590" as="geometry" />
+          <mxGeometry height="80" width="120" x="190" y="1610" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="更新狀態" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="1700" as="geometry" />
+          <mxGeometry height="60" width="120" x="190" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-93" edge="1" parent="1" source="lyohoM_yi2DIAz3_KTqN-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;libavoidRouting=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="lyohoM_yi2DIAz3_KTqN-79">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="1630" />
+              <mxPoint x="730" y="1650" />
             </Array>
-            <mxPoint x="560" y="1640" as="targetPoint" />
+            <mxPoint x="730" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lyohoM_yi2DIAz3_KTqN-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="預約紀錄和狀態" vertex="1">
-          <mxGeometry height="60" width="120" x="500" y="1854" as="geometry" />
+          <mxGeometry height="60" width="120" x="670" y="1874" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
